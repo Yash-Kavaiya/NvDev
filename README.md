@@ -16,3 +16,8 @@
 ## Github
 
 ## X
+
+##  Reddit 
+|Subreddit|
+|---|
+|https://www.reddit.com/r/NVIDIA_NIM/|
